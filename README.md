@@ -1,8 +1,27 @@
-## Indie Game Dev.
+# Hi ! I'm.. 🙋‍♂️
+### Indie Game Developer 🏎
+### Game Server Programmer 💻
+### SFX/BGM Designer 🎺
 
-# Working..
-![](./assets/Nerblin.png) **Nerblin Studio**
-![](./assets/CoffeeNap.PNG) **Coffee Nap Games**
+# Working.. 💪
+<img src="./assets/Nerblin.png" style="width:45px; height:45px; image-rendering: pixelated;" /> **Nerblin Studio**<br>
+<img src="./assets/CoffeeNap.PNG" style="width:45px; height:45px; image-rendering: pixelated;" /> **Coffee Nap Games**
+
+# Worked.. 🦾
+**SPADE ACE (2024)**<br>
+
+# Activities & Awards 🏆
+- Krafton Jungle Game Lab
+- GDWC 2024 WINNER
+
+<img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
+
+# Projects in progress ⭕
+**Nerblin Studio - ARENA : FIGHT.NET**<br>
+**Coffee Nap Games - Overclock**
+
+# Completed projects ✔
+<img src="./assets/BigBlind.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Primary programming language
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
