@@ -1,7 +1,8 @@
 ## Indie Game Dev.
 
 # Working..
-![](./assets/CoffeeNap.png)
+![](./assets/Nerblin.png) **Nerblin Studio**
+![](./assets/CoffeeNap.PNG) **Coffee Nap Games**
 
 # Primary programming language
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
