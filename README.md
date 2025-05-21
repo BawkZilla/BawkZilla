@@ -8,7 +8,7 @@
 <img src="./assets/CoffeeNap.PNG" style="width:45px; height:45px; image-rendering: pixelated;" /> **Coffee Nap Games**
 
 # Worked.. 🦾
-**SPADE ACE (2024)**<br>
+**🕶 SPADE ACE (2024)**<br>
 
 # Activities & Awards 🏆
 - Krafton Jungle Game Lab
@@ -17,8 +17,9 @@
 <img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Projects in progress ⭕
-**Nerblin Studio - ARENA : FIGHT.NET**<br>
-**Coffee Nap Games - Overclock**
+### [Nerblin Studio] ***ARENA : FIGHT.NET (Turn-based combat Multiplayer)***<br>
+### [Coffee Nap Games] ***Overclock (Guild Management)***
+<img src="./assets/FIGHTNET.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/overclock.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Completed projects ✔
 <img src="./assets/BigBlind.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
