@@ -17,7 +17,7 @@
 <img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Projects in progress ⭕
-### [Nerblin Studio] ***ARENA : FIGHT.NET (Turn-based combat Multiplayer)***<br>
+### [Nerblin Studio] ***SHOWDOWN : ARENA (Turn-based Multiplayer)***<br>
 ### [Coffee Nap Games] ***Overclock (Guild Management)***
 <img src="./assets/FIGHTNET.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/overclock.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
