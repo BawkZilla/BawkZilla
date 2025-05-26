@@ -17,9 +17,9 @@
 <img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Projects in progress ⭕
-### [Nerblin Studio] ***SHOWDOWN : ARENA (Turn-based Multiplayer)***<br>
+### [Nerblin Studio] ***DRAWLINE (Co-op Multiplayer)***<br>
 ### [Coffee Nap Games] ***Overclock (Guild Management)***
-<img src="./assets/FIGHTNET.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/overclock.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
+<img src="./assets/DRAWLINE.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/overclock.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Completed projects ✔
 <img src="./assets/BigBlind.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
