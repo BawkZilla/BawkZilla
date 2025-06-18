@@ -18,7 +18,7 @@
 
 # Projects in progress ⭕
 ### [Nerblin Studio] ***BETDOWN (Multiplayer Party Game)***<br>
-### [Coffee Nap Games] ***Overclock (Guild Management)***
+### [Coffee Nap Games] ***Overclock (Turn-based Tactics)***
 <img src="./assets/DRAWLINE.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/overclock.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Completed projects ✔
