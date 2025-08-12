@@ -4,8 +4,7 @@
 ### SFX/BGM Designer - [FL STUDIO 20] 🎺
 
 # Working.. 💪
-<img src="./assets/Nerblin.png" style="width:45px; height:45px; image-rendering: pixelated;" /> **Nerblin Studio**<br>
-<img src="./assets/CoffeeNap.PNG" style="width:45px; height:45px; image-rendering: pixelated;" /> **Coffee Nap Games**
+<img src="./assets/Nerblin.png" style="width:45px; height:45px; image-rendering: pixelated;" /> **Pawly Studio**<br>
 
 # Worked.. 🦾
 **🕶 SPADE ACE (2024)**<br>
@@ -17,8 +16,7 @@
 <img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Projects in progress ⭕
-### [Nerblin Studio] ***BETDOWN (Multiplayer Party Game)***<br>
-### [Coffee Nap Games] ***Overclock (Turn-based Tactics)***
+### [Pawly Studio] ***BETDOWN (Multiplayer Party Game)***<br>
 <img src="./assets/DRAWLINE.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/overclock.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Completed projects ✔
