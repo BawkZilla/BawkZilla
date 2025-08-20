@@ -4,7 +4,7 @@
 ### SFX/BGM Designer - [FL STUDIO 20] 🎺
 
 # Working.. 💪
-<img src="./assets/Nerblin.png" style="width:45px; height:45px; image-rendering: pixelated;" /> **Bawky Studio**<br>
+<img src="./assets/Bawky.png" style="width:45px; height:45px; image-rendering: pixelated;" /> **Bawky Studio**<br>
 
 # Worked.. 🦾
 **🕶 SPADE ACE (2024)**<br>
