@@ -4,7 +4,7 @@
 ### SFX/BGM Designer - [FL STUDIO 20] 🎺
 
 # Working.. 💪
-<img src="./assets/Nerblin.png" style="width:45px; height:45px; image-rendering: pixelated;" /> **Pawly Studio**<br>
+<img src="./assets/Nerblin.png" style="width:45px; height:45px; image-rendering: pixelated;" /> **Bawky Studio**<br>
 
 # Worked.. 🦾
 **🕶 SPADE ACE (2024)**<br>
@@ -16,8 +16,8 @@
 <img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Projects in progress ⭕
-### [Pawly Studio] ***BETDOWN (Multiplayer Party Game)***<br>
-<img src="./assets/DRAWLINE.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/overclock.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
+### [Bawky Studio] ***BETDOWN (Multiplayer Party Game)***<br>
+<img src="./assets/DRAWLINE.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Completed projects ✔
 <img src="./assets/BigBlind.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
