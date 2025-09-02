@@ -1,7 +1,7 @@
 # Hi ! I'm.. 🙋‍♂️
 ### Indie Game Developer - [Unity / Unreal] 🏎
 ### Game Server Programmer - [P2P / Dedicated] 💻
-### SFX/BGM Designer - [FL STUDIO 20] 🎺
+### Youtuber - [BawkZilla Youtube](https://www.youtube.com/@BawkZilla)
 
 # Working.. 💪
 <img src="./assets/Bawky.png" style="width:45px; height:45px; image-rendering: pixelated;" />
@@ -32,7 +32,3 @@
 
 # Game Servers 
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-# ETC
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
