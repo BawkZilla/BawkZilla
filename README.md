@@ -1,4 +1,5 @@
 # Hi ! I'm.. 🙋‍♂️
+### Student - [Pusan National Univ. Computer Science]
 ### Indie Game Developer - [Unity / Unreal] 🏎
 ### Game Server Programmer - [P2P / Dedicated] 💻
 ### Youtuber - [BawkZilla Youtube](https://www.youtube.com/@BawkZilla)
