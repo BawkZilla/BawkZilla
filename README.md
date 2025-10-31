@@ -1,11 +1,10 @@
 # Hi ! I'm.. 🙋‍♂️
-### Student - [Pusan National Univ. Computer Science]
+### Student - [Pusan National Univ. Computer Science Engineering]
 ### Indie Game Developer - [Unity / Unreal] 🏎
-### Game Server Programmer - [P2P / Dedicated] 💻
 ### Youtuber - [BawkZilla Youtube](https://www.youtube.com/@BawkZilla)
 
 # Working.. 💪
-<img src="./assets/Bawky.png" style="width:45px; height:45px; image-rendering: pixelated;" />
+**🐔Bawky Studio (2025)**<br>
 
 # Worked.. 🦾
 **🕶 SPADE ACE (2024)**<br>
@@ -17,7 +16,7 @@
 <img src="./assets/GameLab.png" style="width:100px; height:150px; image-rendering: pixelated;"/> <img src="./assets/GDWC2024.png" style="width:100px; height:150px; image-rendering: pixelated;"/>
 
 # Projects in progress ⭕
-### [Bawky Studio] ***BETDOWN (Multiplayer Party Game)***<br>
+### [Bawky Studio] ***PROJECT:BETDOWN***<br>
 <img src="./assets/_BETDOWN.png" style="width:250px; height:150px; image-rendering: pixelated;"/>
 
 # Completed projects ✔
@@ -31,5 +30,5 @@
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-# Game Servers 
+# Deployment
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
