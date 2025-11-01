@@ -1,6 +1,6 @@
 # Hi ! I'm.. 🙋‍♂️
 ### Student - [Pusan National Univ. Computer Science Engineering]
-### Indie Game Developer - [Unity / Unreal] 🏎
+### Game Dev Team Leader - [Bawky Studio](https://bawkystudio.com/en/main) 🏎
 ### Youtuber - [BawkZilla Youtube](https://www.youtube.com/@BawkZilla)
 
 # Working.. 💪
